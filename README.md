@@ -2,4 +2,4 @@
 Official CleverNetwork website
 
 # This project under contructions!
-Project Done : 1%
+Project Done : 12%
