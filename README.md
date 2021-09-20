@@ -1,2 +1,0 @@
-# clevernetwork
-Official CleverNetwork website
