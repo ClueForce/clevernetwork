@@ -108,19 +108,19 @@
                   <div class="mb-3">
                     <div class="row">
                         <div class="col">
-                          <input type="text" class="form-control" placeholder="Name" aria-label="Name" name="name" required >
+                          <input type="text" class="form-control" placeholder="Discord Tag" aria-label="Name" name="name" required >
                         </div>
                         <div class="col">
-                          <input type="text" class="form-control" placeholder="Email" aria-label="Email" name="email" required >
+                          <input type="text" class="form-control" placeholder="Subject" aria-label="Email" name="email" required >
                         </div>
                       </div>
                       
                       <div class="mt-3">
-                        <input type="text" class="form-control" placeholder="Discord Tag eg. example#0000" aria-label="discord" name="discord" required >
+                        <input type="text" class="form-control" placeholder="Email" aria-label="discord" name="discord" required >
                       </div>
                     </div>
                   <div class="mb-4">
-                    <textarea class="form-control" id="pesan" rows="3" placeholder="in game nick" name="ign" required ></textarea>
+                    <textarea class="form-control" id="message" rows="3" placeholder="Message" name="message" required ></textarea>
                   </div>
                   <button type="submit" class="btn btn-outline-dark btn-kirim" ><i class="fad fa-paper-plane"></i> Submit</button>
     
